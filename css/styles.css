@@ -248,7 +248,7 @@ font-size:16px;
     height:320px;
     background-repeat:no-repeat;
     background-size:cover;
-    box-shadow:2px 2px 12px rgba(0,0,0,0.3);
+    box-shadow:2px 2px 12px rgba(255, 251, 251, 0.3);
     display:flex;
     justify-content:center;
     align-items:center;
